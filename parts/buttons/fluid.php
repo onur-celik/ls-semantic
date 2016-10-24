@@ -1,0 +1,1 @@
+<button class="fluid ui button">Fits container</button>
