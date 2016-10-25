@@ -212,8 +212,82 @@
             <?php include "parts/forms/messages.php"; ?>
             <!-- ################################################################################# -->
             <br>
-            <h4>9.6. Form Grid / Equal Width Inputs</h4>
+            <h4>9.7. Form Grid / Equal Width Inputs</h4>
             <?php include "parts/forms/grid.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>9.8. Inline Fields</h4>
+            <?php include "parts/forms/inline.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>9.9. Required Fields</h4>
+            <?php include "parts/forms/required.php"; ?>
+
+            <!-- ################################################################################# -->
+            <!-- ################################################################################# -->
+            <br><br><br>
+            <h1>10. Menus</h1>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>10.1. Left Menu / Logsign Settings</h4>
+            <?php include "parts/menus/settings.left.php"; ?>
+
+            <!-- ################################################################################# -->
+            <!-- ################################################################################# -->
+            <br><br><br>
+            <h1>11. Notifications / Messages</h1>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>11.1. Basic Notifications</h4>
+            <?php include "parts/notifications/basic.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>11.2. Icon Notifications</h4>
+            <?php include "parts/notifications/icon.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>11.3. Animated Icon Notifications</h4>
+            <?php include "parts/notifications/animated.icon.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>11.4. List Message Notifications</h4>
+            <?php include "parts/notifications/list.message.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>11.5. Dismissable Notifications</h4>
+            <?php include "parts/notifications/dismissable.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>11.6. Floating Notifications</h4>
+            <?php include "parts/notifications/floating.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>11.7. Compact Notifications</h4>
+            <?php include "parts/notifications/compact.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>11.8. Warning</h4>
+            <?php include "parts/notifications/warning.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>11.9. Info</h4>
+            <?php include "parts/notifications/info.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>11.10. Success</h4>
+            <?php include "parts/notifications/success.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>11.11. Error</h4>
+            <?php include "parts/notifications/error.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>11.12. Colored</h4>
+            <?php include "parts/notifications/colored.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>11.13. Sizes</h4>
+            <?php include "parts/notifications/sizes.php"; ?>
 
 
         </div>
