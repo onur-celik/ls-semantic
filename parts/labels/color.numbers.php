@@ -1,0 +1,13 @@
+<a class="ui red circular label">2</a>
+<a class="ui orange circular label">2</a>
+<a class="ui yellow circular label">2</a>
+<a class="ui olive circular label">2</a>
+<a class="ui green circular label">2</a>
+<a class="ui teal circular label">2</a>
+<a class="ui blue circular label">2</a>
+<a class="ui violet circular label">2</a>
+<a class="ui purple circular label">2</a>
+<a class="ui pink circular label">2</a>
+<a class="ui brown circular label">2</a>
+<a class="ui grey circular label">2</a>
+<a class="ui black circular label">2</a>
