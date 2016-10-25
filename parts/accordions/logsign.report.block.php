@@ -17,12 +17,11 @@
                 </td>
                 <td></td>
                 <td align="right">
-                    <button class="ui icon blue mini button">
-                        <i class="edit icon"></i>
-                    </button>
-                    <button class="ui icon red mini button">
-                        <i class="trash icon"></i>
-                    </button>
+                    <div class="ui small basic icon buttons">
+                        <button class="ui button"><i class="calendar icon"></i></button>
+                        <button class="ui button"><i class="edit icon"></i></button>
+                        <button class="ui button"><i class="trash icon"></i></button>
+                    </div>
                 </td>
             </tr>
 
@@ -38,15 +37,11 @@
                 </td>
                 <td></td>
                 <td align="right">
-                    <button class="ui icon violet mini button">
-                        <i class="calendar icon"></i>
-                    </button>
-                    <button class="ui icon blue mini button">
-                        <i class="edit icon"></i>
-                    </button>
-                    <button class="ui icon red mini button">
-                        <i class="trash icon"></i>
-                    </button>
+                    <div class="ui small basic icon buttons">
+                        <button class="ui button"><i class="calendar icon"></i></button>
+                        <button class="ui button"><i class="edit icon"></i></button>
+                        <button class="ui button"><i class="trash icon"></i></button>
+                    </div>
                 </td>
             </tr>
 
@@ -62,12 +57,11 @@
                 </td>
                 <td></td>
                 <td align="right">
-                    <button class="ui icon blue mini button">
-                        <i class="edit icon"></i>
-                    </button>
-                    <button class="ui icon red mini button">
-                        <i class="trash icon"></i>
-                    </button>
+                    <div class="ui small basic icon buttons">
+                        <button class="ui button"><i class="calendar icon"></i></button>
+                        <button class="ui button"><i class="edit icon"></i></button>
+                        <button class="ui button"><i class="trash icon"></i></button>
+                    </div>
                 </td>
             </tr>
 
@@ -83,12 +77,11 @@
                 </td>
                 <td></td>
                 <td align="right">
-                    <button class="ui icon blue mini button">
-                        <i class="edit icon"></i>
-                    </button>
-                    <button class="ui icon red mini button">
-                        <i class="trash icon"></i>
-                    </button>
+                    <div class="ui small basic icon buttons">
+                        <button class="ui button"><i class="calendar icon"></i></button>
+                        <button class="ui button"><i class="edit icon"></i></button>
+                        <button class="ui button"><i class="trash icon"></i></button>
+                    </div>
                 </td>
             </tr>
         </table>
@@ -191,5 +184,55 @@
                 </td>
             </tr>
         </table>
+    </div>
+</div>
+
+<br><br>
+
+<div class="ui styled accordion">
+    <div class="title">
+        <i class="dropdown icon"></i>
+        With list component instead of table
+    </div>
+    <div class="content">
+        <div class="ui middle aligned divided list">
+          <div class="item">
+            <div class="right floated content">
+              <div class="ui mini button">Add</div>
+            </div>
+            <img class="ui avatar image" src="assets/images/avatars/small/lena.png">
+            <div class="content">
+              Lena
+            </div>
+          </div>
+          <div class="item">
+            <div class="right floated content">
+              <div class="ui mini button">Add</div>
+            </div>
+            <img class="ui avatar image" src="assets/images/avatars/small/lena.png">
+            <div class="content">
+              Lindsay
+            </div>
+          </div>
+          <div class="item">
+            <div class="right floated content">
+              <div class="ui mini button">Add</div>
+            </div>
+            <img class="ui avatar image" src="assets/images/avatars/small/lena.png">
+            <div class="content">
+              Mark
+            </div>
+          </div>
+          <div class="item">
+            <div class="right floated content">
+              <div class="ui mini button">Add</div>
+            </div>
+            <img class="ui avatar image" src="assets/images/avatars/small/lena.png">
+            <div class="content">
+              Molly
+            </div>
+          </div>
+        </div>    
+      
     </div>
 </div>
