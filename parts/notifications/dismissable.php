@@ -1,10 +1,3 @@
-<script>
-    $(function(){
-        $('.message .close').on('click', function() {
-            $(this).closest('.message').transition('fade');
-        });
-    });
-</script>
 <div class="ui message transition visible">
   <i class="close icon"></i>
   <div class="header">

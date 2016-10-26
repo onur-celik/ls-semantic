@@ -1,8 +1,3 @@
-<script>
-  $(function(){
-    $('.ui.checkbox').checkbox();
-  });
-</script>
 <div class="ui form">
   <div class="inline field">
     <div class="ui checkbox">

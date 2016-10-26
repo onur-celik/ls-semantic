@@ -1,9 +1,3 @@
-<script>
-    $(function(){
-        $('.dropdown').dropdown();
-    });
-</script>
-
 <form action="" class="ui form">
     <div class="field">
           <label>Country</label>

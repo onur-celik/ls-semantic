@@ -231,6 +231,10 @@
             <br>
             <h4>10.1. Left Menu / Logsign Settings</h4>
             <?php include "parts/menus/settings.left.php"; ?>
+            <!-- ################################################################################# -->
+            <!-- <br>
+            <h4>10.2. Dropdown Menu</h4>
+            <?php include "parts/menus/drop.down.php"; ?> -->
 
             <!-- ################################################################################# -->
             <!-- ################################################################################# -->
@@ -288,13 +292,19 @@
             <br>
             <h4>11.13. Sizes</h4>
             <?php include "parts/notifications/sizes.php"; ?>
-
-
         </div>
     </div>
 </div>
-
+<div class="ui divider"></div>
 <br><br><br><br><br><br><br><br>
+<h1>LOGSIGN DEMOS</h1>
+<a href="search.bar.php" class="ui blue right labeled icon button">
+  <i class="right arrow  icon"></i>
+  Search Bar
+</a>
+
+
+
 <br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br>
 
