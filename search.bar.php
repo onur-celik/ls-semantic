@@ -140,19 +140,22 @@
                     <!-- <strong>1234</strong> events between <strong>2016-10-25 00:00</strong> and <strong>2016-10-26 23:59</strong> -->
                     <div class="ui fluid big action input">
                         <input type="text" placeholder="Type your search term...">
-                        <div type="submit" class="ui green button">
+                        <div type="submit" class="ui blue button">
                             <i class="search icon"></i>
                             Search
                         </div>
                     </div>
-                    <small><strong>1234</strong> events between <strong>2016-10-25 00:00</strong> and <strong>2016-10-26 23:59</strong></small>
+                    <small>
+                        <i class="info icon"></i>
+                        <strong>1234</strong> events between <strong>2016-10-25 00:00</strong> and <strong>2016-10-26 23:59</strong>
+                    </small>
                     <br><br>
-                    <button class="ui compact mini labeled icon button">
+                    <button class="ui compact mini labeled icon green button">
                         <i class="arrow down icon"></i>
                         Search Help
                     </button>
 
-                    <button class="ui compact mini labeled icon button">
+                    <button class="ui compact violet mini labeled icon button">
                         <i class="arrow down icon"></i>
                         Quick Analysis
                     </button>
