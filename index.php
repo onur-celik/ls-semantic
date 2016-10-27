@@ -308,6 +308,11 @@
   <i class="right arrow  icon"></i>
   Settings Left Menu
 </a>
+<br><br>
+<a href="report.blocks.php" class="ui blue right labeled icon button">
+  <i class="right arrow  icon"></i>
+  Report Blocks
+</a>
 
 
 

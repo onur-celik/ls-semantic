@@ -16,6 +16,8 @@
 
                 $('.ui.checkbox').checkbox();
 
+                $('.ui.accordion').accordion();
+
             });
         </script>
     </head>
