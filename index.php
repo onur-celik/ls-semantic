@@ -159,8 +159,9 @@
             <h4>6.4. Floated / Aligned</h4>
             <?php include "parts/segments/floated.php"; ?>
             <!-- ################################################################################# -->
-            <br>
-            <h4>6.5. Raised / Shadow</h4>
+            <br><br>
+            <!-- <div class="ui divider" ></div> -->
+            <h4 style="clear:both;">6.5. Raised / Shadow</h4>
             <?php include "parts/segments/raised.php"; ?>
 
             <!-- ################################################################################# -->
@@ -301,6 +302,11 @@
 <a href="search.bar.php" class="ui blue right labeled icon button">
   <i class="right arrow  icon"></i>
   Search Bar
+</a>
+<br><br>
+<a href="settings.left.menu.php" class="ui blue right labeled icon button">
+  <i class="right arrow  icon"></i>
+  Settings Left Menu
 </a>
 
 
