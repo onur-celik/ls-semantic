@@ -313,7 +313,16 @@
   <i class="right arrow  icon"></i>
   Report Blocks
 </a>
-
+<br><br>
+<a href="#" class="ui blue right labeled icon button">
+  <i class="right arrow  icon"></i>
+  Form Validations
+</a>
+<br><br>
+<a href="#" class="ui blue right labeled icon button">
+  <i class="right arrow  icon"></i>
+  Modals
+</a>
 
 
 <br><br><br><br><br><br><br><br>
