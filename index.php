@@ -293,15 +293,54 @@
             <br>
             <h4>11.13. Sizes</h4>
             <?php include "parts/notifications/sizes.php"; ?>
+
+            <!-- ################################################################################# -->
+            <!-- ################################################################################# -->
+            <br><br><br>
+            <h1>12. Grid System</h1>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>12.1. Basic</h4>
+            <?php include "parts/grid/basic.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>12.2. Divided Grid</h4>
+            <?php include "parts/grid/divided.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>12.3. Celled Grid</h4>
+            <?php include "parts/grid/celled.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>12.4. Internally Celled Grid</h4>
+            <?php include "parts/grid/internally.celled.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>12.5. Stretched Row</h4>
+            <?php include "parts/grid/stretched.row.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>12.6. Colored Columns</h4>
+            <?php include "parts/grid/colored.columns.php"; ?>
+            <!-- ################################################################################# -->
+            <br>
+            <h4>12.7. Colored Rows</h4>
+            <?php include "parts/grid/colored.rows.php"; ?>
         </div>
     </div>
 </div>
+<br><br><br>
 <div class="ui divider"></div>
 <br><br><br><br><br><br><br><br>
 <h1>LOGSIGN DEMOS</h1>
 <a href="search.bar.php" class="ui blue right labeled icon button">
   <i class="right arrow  icon"></i>
   Search Bar
+</a>
+<br><br>
+<a href="search.screen.full.php" class="ui blue right labeled icon button">
+  <i class="right arrow  icon"></i>
+  Search Screen Full
 </a>
 <br><br>
 <a href="settings.left.menu.php" class="ui blue right labeled icon button">
@@ -322,6 +361,11 @@
 <a href="#" class="ui blue right labeled icon button">
   <i class="right arrow  icon"></i>
   Modals
+</a>
+<br><br>
+<a href="#" class="ui blue right labeled icon button">
+  <i class="right arrow  icon"></i>
+  Main Navigation
 </a>
 
 
