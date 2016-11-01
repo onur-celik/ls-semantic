@@ -140,7 +140,6 @@ Search Bar
       <div class="row">
             <div class="column">
                 <div class="ui raised segment">
-                    <!-- <strong>1234</strong> events between <strong>2016-10-25 00:00</strong> and <strong>2016-10-26 23:59</strong> -->
                     <div class="ui fluid big action input">
                         <input type="text" placeholder="Type your search term...">
                         <div type="submit" class="ui blue button">
