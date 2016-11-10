@@ -343,6 +343,16 @@
   Search Screen Full
 </a>
 <br><br>
+<a href="search.screen.full.2.php" class="ui blue right labeled icon button">
+  <i class="right arrow  icon"></i>
+  Search Screen Full 2
+</a>
+<br><br>
+<a href="search.screen.full.3.php?hidecontainer=true" class="ui blue right labeled icon button">
+  <i class="right arrow  icon"></i>
+  Search Screen Full 3
+</a>
+<br><br>
 <a href="settings.left.menu.php" class="ui blue right labeled icon button">
   <i class="right arrow  icon"></i>
   Settings Left Menu

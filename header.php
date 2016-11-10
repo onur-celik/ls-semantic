@@ -22,7 +22,9 @@
         </script>
     </head>
     <body>
+        <?php if (!$_GET['hidecontainer']): ?>
         <div class="ui container">
+        <?php endif; ?>
             
                 
             
