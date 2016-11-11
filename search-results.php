@@ -1,4 +1,4 @@
-<div class="ui red segment">
+<div class="ui red raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui red mini button">
@@ -48,7 +48,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui orange segment">
+<div class="ui orange raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui orange mini button">
@@ -98,7 +98,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui blue segment">
+<div class="ui blue raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui blue mini button">
@@ -148,7 +148,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui violet segment">
+<div class="ui violet raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui violet mini button">
@@ -198,7 +198,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui yellow segment">
+<div class="ui yellow raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui yellow mini button">
@@ -248,7 +248,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui pink segment">
+<div class="ui pink raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui pink mini button">
@@ -298,7 +298,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui black segment">
+<div class="ui black raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui black mini button">
@@ -348,7 +348,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui red segment">
+<div class="ui red raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui red mini button">
@@ -398,7 +398,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui orange segment">
+<div class="ui orange raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui orange mini button">
@@ -448,7 +448,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui blue segment">
+<div class="ui blue raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui blue mini button">
@@ -498,7 +498,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui violet segment">
+<div class="ui violet raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui violet mini button">
@@ -548,7 +548,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui yellow segment">
+<div class="ui yellow raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui yellow mini button">
@@ -598,7 +598,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui pink segment">
+<div class="ui pink raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui pink mini button">
@@ -648,7 +648,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui black segment">
+<div class="ui black raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui black mini button">
@@ -698,7 +698,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui red segment">
+<div class="ui red raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui red mini button">
@@ -748,7 +748,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui orange segment">
+<div class="ui orange raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui orange mini button">
@@ -798,7 +798,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui blue segment">
+<div class="ui blue raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui blue mini button">
@@ -848,7 +848,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui violet segment">
+<div class="ui violet raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui violet mini button">
@@ -898,7 +898,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui yellow segment">
+<div class="ui yellow raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui yellow mini button">
@@ -948,7 +948,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui pink segment">
+<div class="ui pink raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui pink mini button">
@@ -998,7 +998,7 @@
 </div>
 <!-- ############################################## -->
 
-<div class="ui black segment">
+<div class="ui black raised segment">
                 
     <div class="ui labeled mini button">
         <div class="ui black mini button">
