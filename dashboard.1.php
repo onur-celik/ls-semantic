@@ -2,24 +2,9 @@
 <?php include "logsign.top.header.php"; ?>
 <br>
 <div class="ui grid">
-    <div class="ui four wide column">
+    <div class="ui sixteen wide column">
         <div class="ui segment">
-            <img src="assets/images/pie_chart.png" style="max-width: 100%;" alt="">
-        </div>
-    </div>
-    <div class="ui four wide column">
-        <div class="ui segment">
-            <img src="assets/images/pie_chart.png" style="max-width: 100%;" alt="">
-        </div>
-    </div>
-    <div class="ui four wide column">
-        <div class="ui segment">
-            <img src="assets/images/pie_chart.png" style="max-width: 100%;" alt="">
-        </div>
-    </div>
-    <div class="ui four wide column">
-        <div class="ui segment">
-            <img src="assets/images/pie_chart.png" style="max-width: 100%;" alt="">
+            <img src="assets/images/chart-2.png" style="max-width: 100%;" alt="">
         </div>
     </div>
     <div class="ui four wide column">
