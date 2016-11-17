@@ -348,9 +348,14 @@
   Search Screen Full 2
 </a>
 <br><br>
-<a href="search.screen.full.3.php?hidecontainer=true" class="ui blue right labeled icon button">
+<a href="search.screen.full.3.php?hidecontainer=true&module=search" class="ui blue right labeled icon button">
   <i class="right arrow  icon"></i>
   Search Screen Full 3
+</a>
+<br><br>
+<a href="settings.1.php?hidecontainer=true&module=settings" class="ui violet right labeled icon button">
+  <i class="right arrow  icon"></i>
+  Settings 1
 </a>
 <br><br>
 <a href="settings.left.menu.php" class="ui blue right labeled icon button">
